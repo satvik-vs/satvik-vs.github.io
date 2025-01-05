@@ -11,10 +11,10 @@ const TimelinePage = () => {
       description: "Specializing in cybersecurity",
     },
     {
-      title: "XII",
+      title: "Intermedia",
       institution: "Sri chaitanya junior college",
       year: "2020 - 2022",
-      description: "Focusing on Problem Solving using Linear Algebra",
+      description: "10+2 in MPC",
     },
   ];
 
