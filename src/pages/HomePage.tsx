@@ -61,7 +61,7 @@ const HomePage = () => {
           </h2>
           <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
             Looking for a cybersecurity expert to help secure your infrastructure? 
-            Let's connect and discuss how I can help protect your digital assets.
+            Let's connect and discuss how I can help protect your digital assets!
           </p>
         </div>
         <div className="absolute inset-0 bg-grid-pattern opacity-10" />

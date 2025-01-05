@@ -31,8 +31,8 @@ export const projects: Project[] = [
     description: 'An Advanced Search Enginer For Hackers [ In Development Stage ]',
     icon: Search,
     tech: ['React', 'Dorks', 'Python'],
-    github: '#',
-    demo: 'dorkdog.vercela.app',
+    github: 'https://github.com/satvikblog/dorkdog',
+    demo: 'https://dorkdog.satvik.live',
   },
   
 ];
