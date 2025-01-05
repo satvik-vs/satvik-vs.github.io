@@ -11,7 +11,7 @@ const HomePage = () => {
   return (
     <div className="bg-black text-white">
       <ParticlesBackground />
-      
+
       {/* Hero Section */}
       <Hero />
 
@@ -28,6 +28,21 @@ const HomePage = () => {
           </Link>
         </div>
       </section>
+
+      {/* TryHackMe Badge Section */}
+{/* TryHackMe Badge Section */}
+<section className="py-10 text-center">
+  <h2 className="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 mb-6">
+    My TryHackMe Badge
+  </h2>
+  <img
+    src="https://tryhackme-badges.s3.amazonaws.com/satvikshetty.png"
+    alt="TryHackMe Badge"
+    className="mx-auto"
+    style={{ maxWidth: '300px', height: 'auto' }}
+  />
+</section>
+
 
       {/* Featured Projects Preview */}
       <section className="relative py-20">
