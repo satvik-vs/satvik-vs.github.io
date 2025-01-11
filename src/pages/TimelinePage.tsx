@@ -32,7 +32,7 @@ const TimelinePage = () => {
       title: "Founder and President",
       company: "HackOps GITAM",
       year: "Dec 11 , 2025",
-      description: "cybersecurity Training and Awareness club @GITAM HYDERABAD",
+      description: "cybersecurity Training and Awareness club @GITAM UNIVERSITY [ HYD ] ",
     },
     {
       title: "President",
