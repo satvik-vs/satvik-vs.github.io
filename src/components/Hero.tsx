@@ -56,7 +56,7 @@ const Hero = () => {
           </div>
 
           <a 
-            href="https://35a451c3-021c-4264-9e89-da0ce1d7d37c.usrfiles.com/ugd/35a451_75901b30377e4058b72b3307ddcaceab.pdf" // Replace with your actual resume URL
+            href="https://drive.google.com/file/d/1YN9HkDmjyNONdcCvdb-tYdjyKBnyE2SH/view?usp=sharing" // Replace with your actual resume URL
             download="Satvik_Vemulapalli_Resume.pdf" // Optional: Specify the downloaded file name
           >
             <button className="bg-gradient-to-r from-cyan-500 to-purple-500 text-white px-8 py-3 rounded-lg font-mono hover:opacity-90 transition-opacity flex items-center gap-2 mx-auto">
