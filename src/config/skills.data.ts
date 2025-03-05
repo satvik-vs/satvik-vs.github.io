@@ -16,12 +16,12 @@ export const skills: Skill[] = [
   {
     name: 'Python Development',
     icon: Code,
-    level: 85,
+    level: 70,
   },
   {
     name: 'Network Security',
     icon: Network,
-    level: 88,
+    level: 65,
   },
   {
     name: 'Linux Administration',
@@ -31,11 +31,11 @@ export const skills: Skill[] = [
   {
     name: 'SOC & SIEM',
     icon: Database,
-    level: 92,
+    level: 35,
   },
   {
     name: 'Threat Intelligence and Vulnerability Analysis',
     icon: Shield,
-    level: 92,
+    level: 20,
   },
 ];
