@@ -88,7 +88,7 @@ const HomePage = () => {
           Download My Resume
         </h2>
         <a
-          href="https://drive.google.com/file/d/1xtb6uzOA-ydjgk1RcBnkzuNkAmjk9WWN/view?usp=sharing" // Replace this with your actual download link
+          href="https://drive.google.com/file/d/1nW2TtTmtTVKM09SLB4rAReaeFRaPeCS9/view?usp=sharing" // Replace this with your actual download link
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-gradient-to-r from-cyan-500 to-purple-500 text-white px-8 py-3 rounded-lg font-mono hover:opacity-90 transition-opacity"
