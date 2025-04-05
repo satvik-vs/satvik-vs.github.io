@@ -61,7 +61,7 @@ const Hero = () => {
           >
             <button className="bg-gradient-to-r from-cyan-500 to-purple-500 text-white px-8 py-3 rounded-lg font-mono hover:opacity-90 transition-opacity flex items-center gap-2 mx-auto">
               <Download className="w-5 h-5" />
-              Download Resume
+              Download Resume !
             </button>
           </a>
         </div>
